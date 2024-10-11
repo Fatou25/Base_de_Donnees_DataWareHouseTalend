@@ -40,11 +40,3 @@ Pour optimiser les opérations OLAP, l'entrepôt de données a été transformé
 2. Utiliser Talend pour exécuter les jobs d'alimentation des dimensions et de la table de faits.
 3. Pour les analyses OLAP, référez-vous aux requêtes présentes dans le dossier `exemples`.
 
-## Auteurs
-- **Fatoumata Mbalou Diallo** (22013282)
-- **Ismael Sow** (22014919)
-- **Encadrant : Bruno Zunutini**
-
-## Licence
-Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
-
